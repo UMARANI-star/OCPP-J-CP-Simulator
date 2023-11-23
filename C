@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+  int a=487;
+  int b=765;
+  int c=a+b;
+  printf("%d",c);
+}
